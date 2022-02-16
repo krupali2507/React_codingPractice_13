@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.app-container {
+  background-color: white;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  flex-basis: 21%;
+}
+
+.app-image {
+  width: 100px;
+  height: 100px;
+}
